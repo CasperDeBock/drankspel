@@ -18,28 +18,28 @@ export default function Home() {
     <div className={styles.cont}>
     <div className={styles.con}>
     <div className={styles.box}>
-    <a className={styles.white} href="/normal/game">
+    <Link className={styles.white} href="/normal/game">
       <div><h4>Normal</h4></div>
       <div><Image width="100" height="100" src={bier}/></div> 
-      </a>
+      </Link>
     </div>
     <div className={styles.box}>
-    <a className={styles.white} href="hard/game">
+    <Link className={styles.white} href="hard/game">
       <div><h4>Hard</h4></div>
       <div><Image width="100" height="100" src={duivel}/></div> 
-      </a>
+      </Link>
     </div>
     <div className={styles.box}>
-    <a className={styles.white} href="kinkay/game">
+    <Link className={styles.white} href="kinkay/game">
       <div><h4>Kinkay</h4></div>
       <div><Image width="100" height="100" src={kink}/></div> 
-      </a>
+      </Link>
     </div>
     <div className={styles.box}>
-    <a className={styles.white} href="drink/game">
+    <Link className={styles.white} href="drink/game">
       <div><h4>Just Drink</h4></div>
       <div><Image width="100" height="100" src={drink}/></div> 
-      </a>
+      </Link>
     </div>
     </div>
     </div>
