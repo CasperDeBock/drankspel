@@ -21,7 +21,7 @@ export default function Home() {
     <Link className={styles.white} href="/normal/game">
       <div><h4>Normal</h4></div>
       </Link>
-      <Link className={styles.white} href="hard/game">
+      <Link className={styles.white} href="normal/game">
       <div><Image width="100" height="100" src={bier}/></div> 
       </Link>
     </div>
@@ -37,7 +37,7 @@ export default function Home() {
     <Link className={styles.white} href="kinkay/game">
       <div><h4>Kinkay</h4></div>
       </Link>
-      <Link className={styles.white} href="hard/game">
+      <Link className={styles.white} href="kinkay/game">
       <div><Image width="100" height="100" src={kink}/></div> 
       </Link>
     </div>
@@ -45,7 +45,7 @@ export default function Home() {
     <Link className={styles.white} href="drink/game">
       <div><h4>Just Drink</h4></div>
       </Link>
-      <Link className={styles.white} href="hard/game">
+      <Link className={styles.white} href="drink/game">
       <div><Image width="100" height="100" src={drink}/></div> 
       </Link>
     </div>
