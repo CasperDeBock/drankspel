@@ -1,5 +1,5 @@
-.body{
-  background: #7161EF;
+.body {
+  background: rgb(255, 208, 1);
 }
 
 .container {
@@ -106,13 +106,13 @@
 }
 
 .card {
-  background-color: #957FEF;
+  background-color: rgb(255, 179, 16);
   margin-top: 5%;
   padding: 1.5rem;
   text-align: center;
   color: inherit;
   text-decoration: none;
-  border: 1px solid #DEC0F1;
+  border: 1px solid rgb(255, 179, 16);
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   width: 100%;
@@ -121,8 +121,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  background-color: rgb(133, 113, 212);
-  border-color: #B79CED;
+  background-color: rgb(150, 107, 14);
+  border-color: rgb(255, 179, 16);
 }
 
 .card h2 {
@@ -156,7 +156,7 @@
   flex: 1;
   transition: 1s;
   text-align: center;
-  
+  opacity: 0.5;
   
 }
 .box:hover{
