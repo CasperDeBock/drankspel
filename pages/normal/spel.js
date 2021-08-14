@@ -19,7 +19,8 @@ const Spel = () => {
          'drink je drankje leeg', 
         'noem deze persoon voor 2 rondes de naam van de mama', 
         'ga contact drinken', 'drink met minst dominante hand',
-        'Zing een liedje!'
+        'Zing een liedje!', 'praat voor vijf rondes met een raar accent',
+        'laat de groep je in een belachelijke positie zetten en trek een foto'
     ]
  
     function createtotal(){

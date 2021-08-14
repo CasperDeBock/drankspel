@@ -10,7 +10,9 @@ const Spel = () => {
 
     
 
-    const tasks = ['Sterk Shotje!', 'Shotie met het hoofd', '20x pompen elke pomp 1 slok','Binnetrekken!','5 sprong met water','binnetrekken me rietje','drink je drankje leeg uit je schoen'
+    const tasks = ['Sterk Shotje!', 'Shotie met het hoofd', '20x pompen elke pomp 1 slok','Binnetrekken!','5 sprong met water','binnetrekken me rietje','drink je drankje leeg uit je schoen',
+    'ondersteboven binnentrekken','3 radslagen na elkaar','draai 20 keer rond je eigen as en loop 100 meter', 'armworstel met de persoon tegenover jou',
+    'bel naar een chinees restaurant en bestel een pizza', 'ruik aan iedereen zijn/haar oksel', 'staarcontest met iets van drinken in je mond', 'dans zonder muziek voor 1 minuut'
     ]
  
     function createtotal(){

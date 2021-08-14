@@ -35,3 +35,27 @@ footer {
   color: white;
   border-top: 1px solid #eaeaea;
 }
+@media (max-width: 600px) {
+  nav {
+    margin: 10px auto 80px;
+    padding: 10px 0;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+  }
+  nav .logo {
+    text-align: center;
+  }
+  nav .menu{
+    text-align: center;
+  }
+  footer {
+    display: block;
+    text-align: center;
+    padding: 0px 0;
+    margin-top: 400px;
+
+    border-top:1px solid #eaeaea;
+  }
+}

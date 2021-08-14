@@ -185,10 +185,11 @@
 
   .con{
     background-color: #957FEF;
-    margin: 100px auto;
+    margin: 0px auto;
     display:table ;
     box-sizing: border-box;
     padding: 20px;
+    width: 100%;
   }
 }
 
